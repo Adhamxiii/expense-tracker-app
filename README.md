@@ -84,6 +84,7 @@ A bar component within the chart.
 6. Use the app to manage your expenses.
 
 ## Preview
+
 ![Preview](image.png)
 
 ## Contributing
