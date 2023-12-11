@@ -7,6 +7,7 @@ This React.js application allows users to manage their expenses, including addin
 - [Overview](#overview)
 - [Components](#components)
 - [Usage](#usage)
+- [Preview](#preview)
 - [Contributing](#contributing)
 - [Contact Me](#contact-me)
 
@@ -81,6 +82,9 @@ A bar component within the chart.
 5. Open your browser and visit `http://localhost:3000`.
 
 6. Use the app to manage your expenses.
+
+## Preview
+![Preview](image.png)
 
 ## Contributing
 
